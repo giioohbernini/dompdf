@@ -1,7 +1,7 @@
 # Transforming HTML to PDF with PHP using [DOMPDF](https://github.com/dompdf/dompdf).
 
 
-It's so basic. see below:
+####It's so basic. see below:
 
 
 ```php
@@ -16,3 +16,6 @@ $dompdf->stream("name.pdf");
 
 ```
 
+
+#### Observation, 
+_the syntax has changed in new versions!_
