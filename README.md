@@ -1,7 +1,8 @@
 # Transforming HTML to PDF with PHP using [DOMPDF](https://github.com/dompdf/dompdf).
 
 
-> Basic Exmple
+It's so basic. see below:
+
 
 ```php
 include("dompdf/dompdf_config.inc.php");
